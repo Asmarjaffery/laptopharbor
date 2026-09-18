@@ -47,4 +47,3 @@ flutter:
 
   assets:
     - assets/images/
-    - assets/dialogflow_key.json
